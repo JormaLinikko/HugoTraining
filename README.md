@@ -1,0 +1,2 @@
+# HugoTraining
+Treenataan Hugolla työstämistä
